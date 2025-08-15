@@ -6,7 +6,7 @@
 - 🎨 I play gatcha games , brawl stars and watch anime during my free time (I love fate) and like to learn about the socio-economic and geopolitical state of the world.
 - 📫 How to reach me : https://www.linkedin.com/in/adhithiya-suresh-raja-14a93636a/
 
-## The method to my madness 😰 :
+## The method to my madness 😰
 
 <p align="left">
   <img src="https://github.com/user-attachments/assets/b3bdcecd-caff-4e09-8e4b-0bae247a0b1f" width="60" height="60"/>
