@@ -1,13 +1,13 @@
 --------------------------------------
 # Hi there 👋, I'm Adhithiya Suresh Raja
 
-### 🚀 About Me
+## About Me 🚀
 - 🎓 I'm a Final year Electronics and Communication Engineering student.
 - 🤖 I’m currently learning **Machine Learning**.
 - 🎨 I play games gatcha games and brawl stars . watch anime during my free time and like to learn about the socio-economic and geopolitical state of the world.
 - 📫 How to reach me : https://www.linkedin.com/in/adhithiya-suresh-raja-14a93636a/
 
-The method to my madness:
+## The method to my madness 😰 :
 
 <p align="left">
   <img src="https://github.com/user-attachments/assets/b3bdcecd-caff-4e09-8e4b-0bae247a0b1f" width="48" height="48"/>
@@ -19,7 +19,7 @@ The method to my madness:
   <img src="https://github.com/user-attachments/assets/5526e3d9-6d27-4fad-ac3d-c8c0666e0e85" width="48" height="48"/>
 </p>
 
-Let's get along ☺️
+## Let's get along ☺️
 
 
 
