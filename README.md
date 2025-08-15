@@ -1,4 +1,3 @@
---------------------------------------
 # Hi there 👋, I'm Adhithiya Suresh Raja
 
 ## About Me 🚀
@@ -18,6 +17,8 @@
   <img src="https://github.com/user-attachments/assets/196abba5-e4ee-46db-b0cc-c9e7ba7eea2f" width="48" height="48"/>
   <img src="https://github.com/user-attachments/assets/5526e3d9-6d27-4fad-ac3d-c8c0666e0e85" width="48" height="48"/>
 </p>
+
+
 
 ## Let's get along ☺️
 
