@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Adhithiya Suresh Raja
 
 - 🎓 I'm a Final year Electronics and Communication Engineering student.
-- 🤖 I’m currently learning Scikitlearn pytorch and django and .
+- 🤖 I’m currently learning Scikitlearn pytorch and django.
 - 🎨 I play gatcha games , brawl stars and watch anime during my free time (I love fate) and like to learn about the socio-economic and geopolitical state of the world.
 - 📫 How to reach me : https://www.linkedin.com/in/adhithiya-suresh-raja-14a93636a/
 
