@@ -7,21 +7,21 @@
 
 ## The method to my madness 😰
 
-<div style="display:flex; align-items:center; gap:15px; flex-wrap:wrap;">
+<table>
+<tr>
+<td><img src="https://github.com/user-attachments/assets/b3bdcecd-caff-4e09-8e4b-0bae247a0b1f" width="60"></td>
 
-<img src="https://github.com/user-attachments/assets/b3bdcecd-caff-4e09-8e4b-0bae247a0b1f" width="60" height="60"/>
+<td><img src="https://github.com/user-attachments/assets/1dc9dc64-f8fd-4d41-b8ff-c0863c0474a5" width="80"></td>
 
-<img src="https://github.com/user-attachments/assets/1dc9dc64-f8fd-4d41-b8ff-c0863c0474a5" width="80" height="70"/>
+<td><img src="https://github.com/user-attachments/assets/20c5d19c-2f9d-4887-a840-9d577bab0e6e" width="60"></td>
 
-<img src="https://github.com/user-attachments/assets/20c5d19c-2f9d-4887-a840-9d577bab0e6e" width="60" height="80"/>
+<td><img src="https://github.com/user-attachments/assets/c657bec9-bd73-40f4-beef-a5395ff58c5b" width="100"></td>
 
-<img src="https://github.com/user-attachments/assets/c657bec9-bd73-40f4-beef-a5395ff58c5b" width="100" height="100"/>
+<td><img src="https://github.com/user-attachments/assets/99e50312-608d-499b-9f7e-69cfb4f6e4be" width="60"></td>
 
-<img src="https://github.com/user-attachments/assets/99e50312-608d-499b-9f7e-69cfb4f6e4be" width="60" height="60"/>
-
-<img src="https://github.com/user-attachments/assets/21044f60-5199-4b5b-86e1-76b98c76f79d" width="100" height="100"/>
-
-</div>
+<td><img src="https://github.com/user-attachments/assets/21044f60-5199-4b5b-86e1-76b98c76f79d" width="100"></td>
+</tr>
+</table>
 
 
 
