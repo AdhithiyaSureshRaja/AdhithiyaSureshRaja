@@ -7,7 +7,7 @@
 
 ## The method to my madness 😰
 
-<p align="left">
+<p>
   <img src="https://github.com/user-attachments/assets/b3bdcecd-caff-4e09-8e4b-0bae247a0b1f" width="60" height="60"/>
   <img src="https://github.com/user-attachments/assets/1dc9dc64-f8fd-4d41-b8ff-c0863c0474a5" width="80" height="70"/>
   
